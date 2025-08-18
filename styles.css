@@ -72,7 +72,7 @@ body {
 .profile-name {
     font-size: 28px;
     font-weight: 700;
-    color: rgb(228, 200, 255);
+    color: #9dc8f4;
     margin-bottom: 8px;
     letter-spacing: -0.5px;
 }
@@ -80,7 +80,7 @@ body {
 .profile-lastname {
     font-size: 24px;
     font-weight: 500;
-    color: rgb(228, 200, 255);
+    color: #9dc8f4;
     margin-bottom: 16px;
 }
 
@@ -92,7 +92,7 @@ body {
 
 .profile-details p {
     font-size: 16px;
-    color: rgb(228, 200, 255);
+    color: #9dc8f4;
     font-weight: 400;
 }
 
@@ -137,7 +137,7 @@ body {
 .skill-item:hover {
     transform: translateY(-2px);
     box-shadow: 0 8px 16px rgba(25, 118, 210, 0.2);
-    background: linear-gradient(135deg, #bbdefb 0%, #90caf9 100%);
+    background: linear-gradient(135deg, rgb(236, 215, 255) 0%, rgb(241, 226, 255) 100%);
 }
 
 .skill-name {
