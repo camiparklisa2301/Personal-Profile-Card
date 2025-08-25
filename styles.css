@@ -167,11 +167,13 @@ body {
     transition: all 0.3s ease;
     border: 1px solid #87c3ff;
     border-left: 4px solid #87c3ff;
+    
 }
 
 .favorite-item:hover {
     background: #e3f2fd;
     transform: translateX(4px);
+    background: linear-gradient(135deg, rgb(236, 215, 255) 0%, rgb(241, 226, 255) 100%);
 }
 
 /* ===== FOOTER ===== */
